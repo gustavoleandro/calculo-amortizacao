@@ -9,9 +9,12 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Cálculo de Amortização</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Cálculo de Amortização</h1>
+        <a href="amortização-constante.jsp">Amortização Constante </a><br>
+        <a href="amortização-americana.jsp">Amortização Americana</a><br>
+        <a href="tabela-price.jsp">Tabela Price</a>
     </body>
 </html>
