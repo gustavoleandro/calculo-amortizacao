@@ -4,6 +4,7 @@
     Author     : camilla.cbfs
 --%>
 
+
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -12,9 +13,6 @@
         <title>Cálculo de Amortização</title>
     </head>
     <body>
-        <h1>Cálculo de Amortização</h1>
-        <a href="amortização-constante.jsp">Amortização Constante </a><br>
-        <a href="amortização-americana.jsp">Amortização Americana</a><br>
-        <a href="tabela-price.jsp">Tabela Price</a>
+       <%@include file="WEB-INF/jspf/header.jspf"%>
     </body>
 </html>
